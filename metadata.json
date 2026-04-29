@@ -1,0 +1,6 @@
+{
+  "name": "Marine Life Analysis & Enhancement",
+  "description": "An application that enhances underwater images and analyzes video footage to identify marine life and their behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
